@@ -52,8 +52,8 @@ home = ["HTML", "RSS"]
   reward = true
   # reward_guide = "如果这篇文章对你有用,请随意打赏"
 
-  friends = true
-  bookmarks = true
+  # friends = true
+  # bookmarks = true
   about_me = true
 
   [params.social]
