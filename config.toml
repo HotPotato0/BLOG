@@ -14,8 +14,8 @@ home = ["HTML", "RSS"]
 
 [params]
   header_image = "img/gala.jpg"
-#  SEOTitle = "갈라파고스를 꿈꾸는 개발자"
-  description = "갈라파고스를 꿈꾸는 개발자"
+  SEOTitle = "갈라파고스를 꿈꾸는 개발자"
+  #description = "갈라파고스를 꿈꾸는 개발자"
   keyword = "프로그래머, Dony, ICBMA, Dony's Blog"
   slogan = "여유를 가질 때，행복해진다."
 
