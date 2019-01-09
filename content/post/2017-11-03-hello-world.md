@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "Welcome to Zhaohuabing Blog"
+title:      "Welcome to Dony's Blog"
 subtitle:   "Hello World, Hello Blog"
 date:       2017-11-04
-author:     "赵化冰"
-URL: "/2017/11/03/hello-world/"
+author:     "윤상돈"
+URL: "/2019/01/10/hello-world/"
 image:      ""
 ---
 
