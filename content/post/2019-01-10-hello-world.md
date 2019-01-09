@@ -3,7 +3,7 @@ layout:     post
 title:      "Welcome to Dony's Blog"
 subtitle:   "Hello World, Hello Blog"
 date:       2017-11-04
-author:     "윤상돈"
+author:     "Hotpotato00"
 URL: "/2019/01/10/hello-world/"
 image:      ""
 ---
