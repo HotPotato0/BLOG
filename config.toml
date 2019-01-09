@@ -3,7 +3,7 @@ title = "Dony's Blog"
 theme = "cleanwhite"
 languageCode = "kr-ko"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "Dony's blog"
+disqusShortname = "갈라파고스를 꿈꾸는 개발자"
 googleAnalytics = "UA-109223766-1"
 #preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
