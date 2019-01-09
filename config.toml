@@ -1,11 +1,11 @@
 baseurl = "http://Hotpotato00.github.io/"
 title = "Dony's Blog"
 theme = "cleanwhite"
-languageCode = "en-us"
+languageCode = "kr-ko"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "Dony's blog"
 googleAnalytics = "UA-109223766-1"
-preserveTaxonomyNames = true
+#preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = true
 
