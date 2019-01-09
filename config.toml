@@ -42,14 +42,14 @@ home = ["HTML", "RSS"]
   featured_condition_size = 2
 
   # Baidu Analytics
-  ba_track_id = "a1d96090e4189c0376251fb043da7be5"
+  # ba_track_id = "a1d96090e4189c0376251fb043da7be5"
 
   # We need a proxy to access Disqus api in China
   # disqus_proxy = "https://disqusapi.zhaohuabing.com"
   # disqus_site = "http://Hotpotato00.github.io/"
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles
-  reward = true
+  # reward = true
   # reward_guide = "如果这篇文章对你有用,请随意打赏"
 
   # friends = true
