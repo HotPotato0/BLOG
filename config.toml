@@ -28,7 +28,7 @@ home = ["HTML", "RSS"]
   # leancloud_app_key = "efUYEefAc2eIPBRO59PRERQC"
 
   # algolia site search
-  #algolia_search = true
+  algolia_search = true
   #algolia_appId = "WM4BEY1UDN"
   #algolia_indexName = "blog"
   #algolia_apiKey = "090c4a77b8bd4b8d2f2c1262afbc4be2"
@@ -91,12 +91,12 @@ home = ["HTML", "RSS"]
   #title = "unsplash"
   #href = "https://unsplash.com"
 
-#[outputFormats.Algolia]
-#baseName = "algolia"
-#isPlainText = true
-#mediaType = "application/json"
-#notAlternative = true
+[outputFormats.Algolia]
+baseName = "algolia"
+isPlainText = true
+mediaType = "application/json"
+notAlternative = true
 
-#[params.algolia]
-#vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
-#params = ["categories", "tags"]
+[params.algolia]
+vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+params = ["categories", "tags"]
