@@ -16,8 +16,7 @@ Hash Tables: Ice Cream Parlor
 
 > **t번**의 상황에 대해 맛이 **n개**인 **아이스크림**이 주어진다. 이 때 각 맛에 따라 가격 *(Cost)* 이 다르고, 주어지는 돈 *(Money)* 으로 살 수 있는 맛이 몇 번째 맛인지 그 *index*를 구하는 것이 문제의 요지이다.
 
-아래는 해당 링크.
-<https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem/>
+해당 링크.<https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem/>
 
 처음에는 당연히 이중 for문을 이용해서 풀었으나, 당연히 *Fail*
 
@@ -30,6 +29,7 @@ func whatFlavors(cost []int32, money int32) {
      flavorsMap := make(map[int32]int)
     for i := range cost {
       f1 := money - cost[i]
+      // Golang의 Map에 key 존재 여부 
       if _, ok := flavorsMap[f1] ; ok {
         fmt.Printf("%d %d\n", flavorsMap[f1]+1, i+1)
       }
